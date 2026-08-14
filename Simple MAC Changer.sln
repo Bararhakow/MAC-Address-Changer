@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{002E86C2-1416-4CB3-90DD-775528F69C9A}") = "Simple MAC Changer", "Simple MAC Changer\Simple MAC Changer.csproj", "{3A072E33-CE4F-4AE0-9476-356F2247BDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A072E33-CE4F-4AE0-9476-356F2247BDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A072E33-CE4F-4AE0-9476-356F2247BDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A072E33-CE4F-4AE0-9476-356F2247BDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A072E33-CE4F-4AE0-9476-356F2247BDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD2B16C-B841-46AD-91CD-0746FA8BF14F}
+	EndGlobalSection
+EndGlobal
